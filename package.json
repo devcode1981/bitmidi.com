@@ -116,7 +116,7 @@
     "uuid": "^8.3.0"
   },
   "devDependencies": {
-    "@bubblewrap/cli": "^1.6.1",
+    "@bubblewrap/cli": "^1.18.0",
     "babel-eslint": "^10.1.0",
     "babelify": "^10.0.0",
     "browserify": "^16.5.2",
